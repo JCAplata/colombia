@@ -1,0 +1,29 @@
+body {
+    background-image: url('imagenes/bandera.avif'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+}
+p{
+    background: rgba(134, 125, 125, 0.7); 
+    color: rgb(0, 0, 0); 
+    padding: 20px; 
+    margin: 20px auto; 
+    width: 80%; 
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
+p strong {
+    color: rgb(255, 255, 255);
+}
+h1 {
+    text-align: center;
+}
+a img{
+    width: 200px;
+    height: 200px;
+    display: flex;
+    margin: auto;
+}
